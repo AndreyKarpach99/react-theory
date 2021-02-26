@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-theory/static/css/main.8a011a61.chunk.css",
+    "main.js": "/react-theory/static/js/main.a5e1bb6f.chunk.js",
+    "main.js.map": "/react-theory/static/js/main.a5e1bb6f.chunk.js.map",
+    "runtime-main.js": "/react-theory/static/js/runtime-main.b55a64fa.js",
+    "runtime-main.js.map": "/react-theory/static/js/runtime-main.b55a64fa.js.map",
+    "static/js/2.c64836d1.chunk.js": "/react-theory/static/js/2.c64836d1.chunk.js",
+    "static/js/2.c64836d1.chunk.js.map": "/react-theory/static/js/2.c64836d1.chunk.js.map",
+    "index.html": "/react-theory/index.html",
+    "static/css/main.8a011a61.chunk.css.map": "/react-theory/static/css/main.8a011a61.chunk.css.map",
+    "static/js/2.c64836d1.chunk.js.LICENSE.txt": "/react-theory/static/js/2.c64836d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b55a64fa.js",
+    "static/js/2.c64836d1.chunk.js",
+    "static/css/main.8a011a61.chunk.css",
+    "static/js/main.a5e1bb6f.chunk.js"
+  ]
+}
